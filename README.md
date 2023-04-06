@@ -46,3 +46,8 @@
 
 [![Enuni5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enuni5&theme=transparent&showicons=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enuni5&layout=compact&theme=transparent&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## My 4️⃣2️⃣ progress
+
+
+[![enunez-n's 42 stats](https://badge.mediaplus.ma/darkblue/enunez-n?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
