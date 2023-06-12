@@ -10,7 +10,7 @@
 - 🔭 I’m currently studying software development in [42 Málaga](www.42malaga.com).
 - 🔎 Looking for my path in the IT field. Open to every experience.
 - 🌱 I’m learning Python, C and SQL. Always trying to learn something new.
-- 🎓 Certified AWS Solutions Architect Associate, Higher Training in Administration and Finance.
+- 🎓 Certified AWS Solutions Architect Associate, Higher Technical Certificate in Administration and Finance.
 
 
 <br>
